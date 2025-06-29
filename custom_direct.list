@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,aexgzbgp01.00117163.xyz
 SRC-IP-CIDR,10.10.10.30/32
 SRC-IP-CIDR,10.10.10.66/32
 SRC-IP-CIDR,192.168.9.0/24
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-ira8j.com
+DOMAIN,services.googleapis.com
+
