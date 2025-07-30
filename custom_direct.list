@@ -9,4 +9,6 @@ SRC-IP-CIDR,192.168.9.0/24
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-ira8j.com
 DOMAIN,services.googleapis.com
-
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
