@@ -2,6 +2,10 @@
 DOMAIN-KEYWORD,githubusercontent
 DOMAIN-KEYWORD,ollama
 DOMAIN-KEYWORD,pcloud
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,deepswap
 # GooglePlay 相关
 # DOMAIN-SUFFIX,services.googleapis.cn
 # DOMAIN-SUFFIX,clientservices.googleapis.com
