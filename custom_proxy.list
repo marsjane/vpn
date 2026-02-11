@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,githubusercontent
 # DOMAIN-KEYWORD,ollama
 # DOMAIN-KEYWORD,pcloud
-# DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,google
 # DOMAIN-KEYWORD,ibkr
 # DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,deepswap
