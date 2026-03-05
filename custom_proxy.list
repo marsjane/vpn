@@ -1,16 +1,11 @@
 # 强制代理列表，来自个人收集
 DOMAIN-KEYWORD,githubusercontent
-# DOMAIN-KEYWORD,ollama
-# DOMAIN-KEYWORD,pcloud
-DOMAIN-KEYWORD,google
-# DOMAIN-KEYWORD,ibkr
-# DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,vircs
+DOMAIN-KEYWORD,ibkr
+DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,deepswap
-# GooglePlay 相关
-# DOMAIN-SUFFIX,services.googleapis.cn
-# DOMAIN-SUFFIX,clientservices.googleapis.com
-# DOMAIN-SUFFIX,googleapis.cn
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-KEYWORD,pcloud
+DOMAIN-KEYWORD,telegram
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
 # Cloudflare DNS
@@ -21,7 +16,5 @@ DOMAIN-SUFFIX,platformio.org
 DOMAIN-SUFFIX,arduino.cc
 # PT 相关
 # DOMAIN-SUFFIX,dmhy.org
-# Google 相关
-DOMAIN-SUFFIX,mtalk.google.com
 # EA Desktop 云同步
 DOMAIN-SUFFIX,cloudsync-prod.s3.us-east-1.amazonaws.com
